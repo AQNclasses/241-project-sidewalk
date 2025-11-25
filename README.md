@@ -54,7 +54,8 @@ This class represents a graph data structure. It allows for the creation of node
 
 ## 4. GraphParser
 
-This class serves as a blueprint for creating specific graph parsers by defining the required methods for opening a file a parsing its contents into a graph representation. **By extending this class and implementing the 'open()' and 'parse()' methods, you can create parsers for different file formats and customize the parsing logic according to their needs.**
+This class serves as a blueprint for creating specific graph parsers by defining the required methods for opening a file a parsing its contents into a graph representation. By extending this class and implementing the 'open()' and 'parse()' methods, you can create parsers for different file formats and customize the parsing logic according to their needs.
+You do not need to modify this class to get full credit for this project.
 
 ## 5. Node
 
